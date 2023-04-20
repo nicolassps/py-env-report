@@ -1,0 +1,13 @@
+<env>
+    <request>
+        <description>Ping Google</description>
+        <url>www.google.com.br</url>
+        <type>ping</type>
+    </request>
+    <request Content-Type="application/json">
+        <description>Request Google</description>
+        <url>www.google.com.br</url>
+        <type>request</type>
+        <method>GET</method>
+    </request>
+</env>
